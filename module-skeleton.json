@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-seo-dart-desktop",
+  "capabilityKey": "liberusoftware/module-cms-seo",
+  "presentation": "dart-desktop",
+  "package": "module_cms_seo_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/cms/nextjs/seo.md",
+  "presentationPlan": "projects/cms/features/seo.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
